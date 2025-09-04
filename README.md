@@ -27,6 +27,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou foc
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/kelvin-brandon-747892128/)  
-📧 Email: **kelvincosta702@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-brandon-747892128/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvincosta702@gmail.com)
+
 
